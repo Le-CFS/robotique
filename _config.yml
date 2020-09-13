@@ -53,12 +53,12 @@ author:
 menu:
   - title:             Blog
     url:               /blog/
-  - title:             Projects
-    url:               /projects/
-  - title:             Résumé*
-    url:               /resume/
+  - title:             Projets
+    url:               /projets/
   - title:             Documentation
     url:               /docs/
+  - title:             Le CFS
+    url:               https://www.lecfs.be/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -267,10 +267,14 @@ hydejack:
     always:            false
 
     # Set to `true` to use the dark theme based on visitors' preference (OS setting).
-    dynamic:           true
+    dynamic:           false
 
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true
+
+    # To choose the darkness and the lightness
+    sunset:            18
+    sunlight:          6
 
   # ⚡️ DANGER ZONE ⚡️
   # ----------------
