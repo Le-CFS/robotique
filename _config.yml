@@ -52,11 +52,11 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Blog
-    url:               /blog/
+    url:               /
   - title:             Projets
-    url:               /projets/
+    url:               /
   - title:             Documentation
-    url:               /docs/
+    url:               /
   - title:             Le CFS
     url:               https://www.lecfs.be/
 
@@ -71,7 +71,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. All rights reserved.
+copyright:             © 2020. Tout droits réservés.
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
@@ -254,7 +254,7 @@ hydejack:
 
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
   # Note that this setting has no effect when using the free version.
-  advertise:           false
+  advertise:           true
 
   # Buyers of the PRO version can opt to hide all dates from the theme.
   # Frequent consumers of online content will know that nothing devalues a post like
@@ -397,3 +397,27 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+optional_front_matter:
+  remove_originals:    true
+
+readme_index:
+  remove_originals:    true
+  with_frontmatter:    true
+
+relative_links:
+  collections:         true
+
+titles_from_headings:
+  strip_title:         true
+  collections:         true
+
+compress_html:
+  comments:            ["<!-- ", " -->"]
+  clippings:           all
+  endings:             all
+  ignore:
+    envs:              [development]
+
+sass:
+  style:               compressed
