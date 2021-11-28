@@ -1,19 +1,21 @@
 ---
+title: Hydejack Site
+date: 2016-01-01 00:00:00 Z
 layout: project
-title: 'Hydejack Site'
 caption: Dogfooding Hydejack to sell Hydejack.
-description: >
-  While Hydejack is built for personal sites, it's versatility allows it to be used a product page as well.
-date: '01-01-2016'
-image: 
+description: 'While Hydejack is built for personal sites, it''s versatility allows
+  it to be used a product page as well.
+
+'
+image:
   path: assets/img/projects/hydejack-site.jpg
-  srcset: 
+  srcset:
     2560w: assets/img/projects/hydejack-site.jpg
     1280w: assets/img/projects/hydejack-site@0,5x.jpg
     640w: assets/img/projects/hydejack-site@0,25x.jpg
 links:
-  - title: Link
-    url: https://hydejack.com/
+- title: Link
+  url: https://hydejack.com/
 sitemap: false
 ---
 

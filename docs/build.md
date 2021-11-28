@@ -1,8 +1,10 @@
 ---
-layout: page
 title: Build
-description: >
-  This chapters shows how to prepare your Hydejack site for a production build and deployment on 3rd party hosting providers.
+layout: page
+description: 'This chapters shows how to prepare your Hydejack site for a production
+  build and deployment on 3rd party hosting providers.
+
+'
 hide_description: true
 sitemap: false
 ---

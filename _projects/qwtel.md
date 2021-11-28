@@ -1,24 +1,25 @@
 ---
+title: "@qwtel"
+date: 2020-06-01 00:00:00 Z
 layout: project
-title: '@qwtel'
 caption: How I use Hydejack on my personal site.
-description: >
-  This is how I use Hydejack on my personal site. 
-  Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
-date: 1 Jun 2020
-image: 
+description: 'This is how I use Hydejack on my personal site.  Much of the development
+  is informed from my experience of using it myself, creating a tight feedback loop.
+
+'
+image:
   path: assets/img/projects/qwtel.jpg
-  srcset: 
+  srcset:
     2560w: assets/img/projects/qwtel.jpg
     1280w: assets/img/projects/qwtel@0,5x.jpg
     640w: assets/img/projects/qwtel@0,25x.jpg
 links:
-  - title: Link
-    url: https://qwtel.com/
-accent_color: '#4fb1ba'
+- title: Link
+  url: https://qwtel.com/
+accent_color: "#4fb1ba"
 accent_image:
-  background: '#193747'
-theme_color: '#193747'
+  background: "#193747"
+theme_color: "#193747"
 sitemap: false
 ---
 

@@ -1,8 +1,13 @@
 ---
-layout: post
 title: Example Content
-description: >
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+date: 2012-02-07 00:00:00 Z
+categories:
+- example
+layout: post
+description: 'Howdy! This is an example blog post that shows several types of HTML
+  content supported in this theme.
+
+'
 sitemap: false
 ---
 

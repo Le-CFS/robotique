@@ -1,4 +1,5 @@
 ---
-layout: offline
 permalink: offline.html
+layout: offline
 ---
+

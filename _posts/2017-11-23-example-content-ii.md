@@ -1,9 +1,13 @@
 ---
-layout: post
 title: Example Content II
-description: >
-  A page showing how regular markdown content is styled in Hydejack.
-image: /assets/img/blog/example-content-ii.jpg
+date: 2017-11-23 00:00:00 Z
+categories:
+- example
+layout: post
+description: 'A page showing how regular markdown content is styled in Hydejack.
+
+'
+image: "/assets/img/blog/example-content-ii.jpg"
 sitemap: false
 ---
 

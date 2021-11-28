@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Bienvenue
+layout: page
 sitemap: false
 ---
 
