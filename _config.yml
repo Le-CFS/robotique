@@ -17,9 +17,6 @@ collections:
     title: Projects
     output: true
     permalink: "/projects/:path/"
-  stages:
-    title: Stages
-    output: true
   uploads:
     title: Uploads
     output: true
